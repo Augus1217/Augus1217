@@ -2,7 +2,7 @@
 #### A junior high school student from Kaohsiung, Taiwan.  
 CookieRun: Kingdom and Blue Archive player.
  
-Currently learning Python, C++ and some AI. Keep practicing to reach APCS 4th grade.  
+Currently learning Python, C++ and some AI. Keep practicing to reach APCS Level 4.  
 [My Codes](https://github.com/Augus1217/My-codes)
 
 My favorite AI coding tool:  
