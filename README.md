@@ -1,4 +1,14 @@
-## Hi there 👋
+###Hi there, I'm Augus.
+####A junior high school student from Kaohsiung, Taiwan.
+Like to play CookieRun: Kingdom and Blue Archive.
+ 
+Currently learning Python, C++ and some AI. Keep practing to reach APCS 4th grade.
+[My Codes](https://github.com/Augus1217/My-codes)
+
+My favorite AI coding tool:
+2025: Gemini CLI/Github Copilot. They made [Chinese-Chess](https://github.com/Augus1217/Chinese-Chess).
+2026: OpenCode. It made [BA-Memorial-Player](https://github.com/Augus1217/BA-MemorialLobby-Player)
+
 
 <!--
 **Augus1217/Augus1217** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
