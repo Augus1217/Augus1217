@@ -1,5 +1,5 @@
-###Hi there, I'm Augus.  
-####A junior high school student from Kaohsiung, Taiwan.  
+### Hi there, I'm Augus.  
+#### A junior high school student from Kaohsiung, Taiwan.  
 Like to play CookieRun: Kingdom and Blue Archive.
  
 Currently learning Python, C++ and some AI. Keep practing to reach APCS 4th grade.  
