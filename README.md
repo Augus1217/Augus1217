@@ -1,10 +1,12 @@
 ### Hi there, I'm Augus.  
 #### A junior high school student from Kaohsiung, Taiwan.  
+YangMing Junior High School 2nd grade student.
 CookieRun: Kingdom and Blue Archive player.
  
 Currently learning Python, C++ and some AI. Keep practicing to reach APCS Level 4.  
 [My Codes](https://github.com/Augus1217/My-codes)
 
+Often use AI to make some bigger project.  
 My favorite AI coding tool:  
 2025: Gemini CLI/Github Copilot. They made [Chinese-Chess](https://github.com/Augus1217/Chinese-Chess).  
 2026: OpenCode. It made [BA-Memorial-Player](https://github.com/Augus1217/BA-MemorialLobby-Player).
