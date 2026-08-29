@@ -3,11 +3,11 @@
 YangMing Junior High School 2nd grade student.  
 CookieRun: Kingdom and Blue Archive player.
  
-Currently learning Python, C++ and some AI. Keep practicing to reach APCS Level 4.  [My Codes](https://github.com/Augus1217/My-codes)  
+Currently learning Python, C++ on [Zerojudge](zerojudge.tw). Keep practicing to reach APCS Level 4.  [My Codes](https://github.com/Augus1217/My-codes)  
 Linux Lover, current OS: Kubuntu 26.04 LTS.
 
 Often use AI to make some big project.  
-My favorite AI coding tool:  
+My favorite AI coding tools:  
 | Year | Tools | Project |
 | --- | --- | --- |
 | 2025 | Gemini CLI/Github Copilot | [Chinese-Chess](https://github.com/Augus1217/Chinese-Chess) |
