@@ -8,8 +8,10 @@ Currently learning Python, C++ and some AI. Keep practicing to reach APCS Level 
 
 Often use AI to make some bigger project.  
 My favorite AI coding tool:  
-2025: Gemini CLI/Github Copilot. They made [Chinese-Chess](https://github.com/Augus1217/Chinese-Chess).  
-2026: OpenCode. It made [BA-Memorial-Player](https://github.com/Augus1217/BA-MemorialLobby-Player).
+| Year | Tools | Project |
+| --- | ---| --- |
+| 2025 | Gemini CLI/Github Copilot | [Chinese-Chess](https://github.com/Augus1217/Chinese-Chess) |
+| 2026 | OpenCode | [BA-Memorial-Player](https://github.com/Augus1217/BA-MemorialLobby-Player) |
 
 
 
