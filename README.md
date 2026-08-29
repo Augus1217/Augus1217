@@ -3,8 +3,7 @@
 YangMing Junior High School 2nd grade student.  
 CookieRun: Kingdom and Blue Archive player.
  
-Currently learning Python, C++ and some AI. Keep practicing to reach APCS Level 4.  
-[My Codes](https://github.com/Augus1217/My-codes)  
+Currently learning Python, C++ and some AI. Keep practicing to reach APCS Level 4.  [My Codes](https://github.com/Augus1217/My-codes)  
 Linux Lover, current OS: Kubuntu 26.04 LTS.
 
 Often use AI to make some big project.  
