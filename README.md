@@ -11,7 +11,7 @@ My favorite AI coding tools:
 | Year | Tools | Project |
 | --- | --- | --- |
 | 2025 | Gemini CLI/Github Copilot | [Chinese-Chess](https://github.com/Augus1217/Chinese-Chess), [Google-AI-Studio-Desktop](https://github.com/Augus1217/Google-AI-Studio-Desktop) |
-| 2026 | OpenCode | [BA-Memorial-Player](https://github.com/Augus1217/BA-MemorialLobby-Player) |
+| 2026 | OpenCode | [BA-MemorialLobbu-Player](https://github.com/Augus1217/BA-MemorialLobby-Player) |
 
 
 
